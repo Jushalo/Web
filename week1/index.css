@@ -1,0 +1,57 @@
+body {
+    background-image:url(./source/header.jpg);
+}
+
+div#header {
+    background-color:rgba(255,255,255,0.2);
+    text-align:center;
+}
+
+div#musicPlayer {
+    padding:10px;
+    text-align: center;
+}
+
+div#link {
+    text-align: center;
+}
+
+div#contain {
+    padding:100px;
+    text-align:center;
+}
+
+div#footer {
+    background-color:rgba(255,255,255,0.2);
+    clear:both;
+    text-align:center;
+    padding:20px;
+    font-size: 12pt;
+    font-family:Times;
+}
+
+
+h1 { 
+    font-family: Optima;
+    font-weight: bold; 
+    line-height: 90%;   
+    color: rgba(254,254,254,1);
+    font-size: 40pt;
+    margin:0px;
+    padding:20px;
+}
+
+p { 
+    background-color:rgba(255,255,255,0.6);
+    color: black;
+    padding:40px;
+    font-size:25pt;
+    font-family:Adele;
+}
+
+a {
+    padding:40px;
+    font-size:25pt;
+    font-family:Adele;
+    text-align:center;
+}

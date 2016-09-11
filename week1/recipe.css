@@ -1,0 +1,62 @@
+a:link {
+    font-size:11pt;
+    font-family:Georgia, Garamond, serif;
+    color: #A4A400;
+}
+
+a:visited {
+    font-size:11pt;
+    font-family:Georgia, Garamond, serif;
+    color: #A4A400;
+}
+
+body {
+    background-image:url(http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg);
+    background-repeat: repeat;
+}
+
+h1 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-size: 22pt;
+    font-family:Century Gothic, Futura, Verdana, sans-serif;
+    text-decoration: underline;
+    letter-spacing: 0.2em;
+    text-align:center;
+}
+
+h2 {
+    color: #A4A400;
+    background-color: #F0F0F0;
+    font-size: 18pt;
+    font-family:Century Gothic, Futura, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight: lighter;
+    letter-spacing: 0.2em;
+}
+
+p.user {
+    background-color:#FFFFC8;
+    font-style: italic;
+    font-size:11pt;
+    font-family:Georgia, Garamond, serif;
+}
+
+p.serif {
+    color:#404040; 
+    font-size:11pt;
+    font-family:Georgia, Garamond, serif;
+}
+
+ul {
+    color:#404040; 
+    font-size:11pt;
+    font-family:Georgia, Garamond, serif;
+    list-style-image: url('http://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif')
+}
+
+ol {
+    color:#404040; 
+    font-size:11pt;
+    font-family:Georgia, Garamond, serif;
+}
